@@ -1,2 +1,2 @@
 # Flight-Recommendation-System
-System recommends flights to passengers given date and destination
+This notebook provides a python code for a System that recommends flights to passengers given date and destination.
